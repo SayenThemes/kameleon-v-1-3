@@ -6,7 +6,7 @@
 		"optionsUrl" 	:	 "",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/about-me/about-me.xml",
 		"widgetsUrl" 	:	 "",
-		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"previewUrl" 	:	 "http://kameleonwp.com/pages-sample/about-me/",
 		"revolutionSliderFiles" :[]
 	},
 	{
@@ -16,47 +16,7 @@
 		"optionsUrl" 	:	 "",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/about-team-fancy/about-team-fancy.xml",
 		"widgetsUrl" 	:	 "",
-		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
-		"revolutionSliderFiles" :[]
-	},
-	{
-		"name" 			:	 "About Us",
-		"version" 		:	 "1.3",
-		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/about-us/thumbnail.jpg",
-		"optionsUrl" 	:	 "",
-		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/about-us/about-us.xml",
-		"widgetsUrl" 	:	 "",
-		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
-		"revolutionSliderFiles" :[]
-	},
-	{
-		"name" 			:	 "Coming Soon",
-		"version" 		:	 "1.3",
-		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/coming-soon/thumbnail.jpg",
-		"optionsUrl" 	:	 "",
-		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/coming-soon/coming-soon.xml",
-		"widgetsUrl" 	:	 "",
-		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
-		"revolutionSliderFiles" :[]
-	},
-	{
-		"name" 			:	 "Coming Soon Fancy",
-		"version" 		:	 "1.3",
-		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/coming-soon-fancy/thumbnail.jpg",
-		"optionsUrl" 	:	 "",
-		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/coming-soon-fancy/coming-soon-fancy.xml",
-		"widgetsUrl" 	:	 "",
-		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
-		"revolutionSliderFiles" :[]
-	},
-	{
-		"name" 			:	 "contact parallax dark",
-		"version" 		:	 "1.3",
-		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/contact-parallax-dark/thumbnail.jpg",
-		"optionsUrl" 	:	 "",
-		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/contact-parallax-dark/contact-parallax-dark.xml",
-		"widgetsUrl" 	:	 "",
-		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"previewUrl" 	:	 "http://kameleonwp.com/pages-sample/about-team-fancy/",
 		"revolutionSliderFiles" :[]
 	},
 	{
@@ -66,9 +26,59 @@
 		"optionsUrl" 	:	 "",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/contact-us-fancy/contact-us-fancy.xml",
 		"widgetsUrl" 	:	 "",
-		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"previewUrl" 	:	 "http://kameleonwp.com/pages-sample/contact-us-fancy/",
 		"revolutionSliderFiles" :[]
 	},
+	{
+		"name" 			:	 "Coming Soon",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/coming-soon/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/coming-soon/coming-soon.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://kameleonwp.com/pages-sample/coming-soon/",
+		"revolutionSliderFiles" :[]
+	},
+	{
+		"name" 			:	 "About Us",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/about-us/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/about-us/about-us.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://kameleonwp.com/pages-sample/about-us/",
+		"revolutionSliderFiles" :[]
+	},
+	{
+		"name" 			:	 "Coming Soon Fancy",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/coming-soon-fancy/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/coming-soon-fancy/coming-soon-fancy.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://kameleonwp.com/pages-sample/coming-soon-fancy/",
+		"revolutionSliderFiles" :[]
+	},
+	{
+		"name" 			:	 "About team modern",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/about-team-modern/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/about-team-modern/about-team-modern.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://kameleonwp.com/pages-sample/about-team-modern/",
+		"revolutionSliderFiles" :[]
+	}
+	{
+		"name" 			:	 "contact parallax dark",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/contact-parallax-dark/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/contact-parallax-dark/contact-parallax-dark.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://kameleonwp.com/pages-sample/contact-parallax-dark/",
+		"revolutionSliderFiles" :[]
+	},	
 	{
 		"name" 			:	 "contact us modern",
 		"version" 		:	 "1.3",
@@ -76,7 +86,7 @@
 		"optionsUrl" 	:	 "",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/contact-us-modern/contact-us-modern.xml",
 		"widgetsUrl" 	:	 "",
-		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"previewUrl" 	:	 "http://kameleonwp.com/pages-sample/contact-us-modern/",
 		"revolutionSliderFiles" :[]
 	},
 	{
@@ -86,7 +96,7 @@
 		"optionsUrl" 	:	 "",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/maintenance-mode/maintenance-mode.xml",
 		"widgetsUrl" 	:	 "",
-		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"previewUrl" 	:	 "http://kameleonwp.com/pages-sample/maintenance-mode/",
 		"revolutionSliderFiles" :[]
 	},
 	{
@@ -96,7 +106,7 @@
 		"optionsUrl" 	:	 "",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/service-basic/service-basic.xml",
 		"widgetsUrl" 	:	 "",
-		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"previewUrl" 	:	 "http://kameleonwp.com/pages-sample/service-basic/",
 		"revolutionSliderFiles" :[]
 	},
 	{
@@ -106,7 +116,7 @@
 		"optionsUrl" 	:	 "",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/services-classic/services-classic.xml",
 		"widgetsUrl" 	:	 "",
-		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"previewUrl" 	:	 "http://kameleonwp.com/pages-sample/services-classic/",
 		"revolutionSliderFiles" :[]
 	},
 	{
@@ -116,7 +126,7 @@
 		"optionsUrl" 	:	 "",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/services-modern/services-modern.xml",
 		"widgetsUrl" 	:	 "",
-		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"previewUrl" 	:	 "http://kameleonwp.com/pages-sample/services-modern/",
 		"revolutionSliderFiles" :[]
 	}
 ]
