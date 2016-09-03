@@ -1,0 +1,17 @@
+[
+	{
+		"name" 			:	 "Main",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/Main/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/content.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/Main/slider/home-modern1.zip"
+			}
+		]
+	},
+	
+]

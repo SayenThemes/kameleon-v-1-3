@@ -1,0 +1,176 @@
+[
+	{
+		"name" 			:	 "Main",
+		"version" 		:	 1,
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/thumbnail.jpg",
+		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/options.json",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/content.xml",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/widgets.wie",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/slider/home-modern1.zip",
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/slider/homepage1.zip",
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/slider/hvideos1.zip",
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/slider/flying-mac.zip",
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/slider/sabove-1.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Construction",
+		"version" 		:	 1,
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Construction/thumbnail.jpg",
+		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Construction/options.json",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Construction/content.xml",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Construction/widgets.wie",
+		"previewUrl" 	:	 "http://sayenthemes.com/construction-demo",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Construction/slider/construction.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Fitness",
+		"version" 		:	 1,
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Fitness/thumbnail.jpg",
+		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Fitness/options.json",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Fitness/content.xml",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Fitness/widgets.wie",
+		"previewUrl" 	:	 "http://sayenthemes.com/fitness-demo/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Fitness/slider/fitnesshome.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Modern Agency",
+		"version" 		:	 1,
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Modern-Agency/thumbnail.jpg",
+		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/options.json",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/content.xml",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/widgets.wie",
+		"previewUrl" 	:	 "http://sayenthemes.com/modern-agency-2/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/slider/home-modern1.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Interior Design",
+		"version" 		:	 1,
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Interior-Design/thumbnail.jpg",
+		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Interior-Design/options.json",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Interior-Design/content.xml",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Interior-Design/widgets.wie",
+		"previewUrl" 	:	 "http://sayenthemes.com/interior-design/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Interior-Design/slider/InterirorHomeSider.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Modern Blog",
+		"version" 		:	 1,
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Modern-Blog/thumbnail.jpg",
+		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Modern-Blog/options.json",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Modern-Blog/content.xml",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Modern-Blog/widgets.wie",
+		"previewUrl" 	:	 "http://sayenthemes.com/freelancer-demo/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Modern-Blog/slider/homeblog.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Freelancer",
+		"version" 		:	 1,
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Freelancer/thumbnail.jpg",
+		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Freelancer/options.json",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Freelancer/content.xml",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Freelancer/widgets.wie",
+		"previewUrl" 	:	 "http://sayenthemes.com/freelancer-demo/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Freelancer/slider/home-slider.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Healthcare",
+		"version" 		:	 1,
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Healthcare/thumbnail.jpg",
+		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Healthcare/options.json",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Healthcare/content.xml",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Healthcare/widgets.wie",
+		"previewUrl" 	:	 "http://sayenthemes.com/healthcare-demo/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Healthcare/slider/home2.zip",
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Healthcare/slider/home-healthcare.zip"
+			}
+		]
+	},	
+	{
+		"name" 			:	 "Mobile App",
+		"version" 		:	 1,
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Mobile-App/thumbnail.jpg",
+		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Mobile-App/options.json",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Mobile-App/content.xml",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Mobile-App/widgets.wie",
+		"previewUrl" 	:	 "http://sayenthemes.com/mobileapp-demo/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Mobile-App/slider/heorehome.zip"
+			}
+		]
+	},	
+	{
+		"name" 			:	 "Restaurant",
+		"version" 		:	 1,
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Restaurant/thumbnail.jpg",
+		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Restaurant/options.json",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Restaurant/content.xml",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Restaurant/widgets.wie",
+		"previewUrl" 	:	 "http://sayenthemes.com/restaurant-demo/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Restaurant/slider/SushiHome.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Web Agency",
+		"version" 		:	 1,
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Web-Agency/thumbnail.jpg",
+		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Web-Agency/options.json",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Web-Agency/content.xml",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Web-Agency/widgets.wie",
+		"previewUrl" 	:	 "http://sayenthemes.com/webagency-demo/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Web-Agency/slider/home-agency.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Product Showcase",
+		"version" 		:	 1,
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Product-Showcase/thumbnail.jpg",
+		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Product-Showcase/options.json",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Product-Showcase/content.xml",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Product-Showcase/widgets.wie",
+		"previewUrl" 	:	 "http://sayenthemes.com/sayenthemes.com/headphones-showcase//",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Product-Showcase/slider/showcase.zip"
+			}
+		]
+	}
+	
+]
