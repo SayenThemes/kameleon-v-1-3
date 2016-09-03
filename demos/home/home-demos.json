@@ -1,0 +1,187 @@
+[
+	{
+		"name" 			:	 "Agency Classic",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/agency-classic/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/agency-classic/agency-classic.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/agency-classic/agency-classic-slider.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Agency Creative",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/agency-creative/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/agency-creative/agency-creative.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/agency-creative/agency-creative-slider.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Agency fancy",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/agency-fancy/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/agency-fancy/agency-fancy.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[]
+	},
+	{
+		"name" 			:	 "Business Classic",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/business-classic/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/business-classic/business-classic.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/business-classic/business-classic-slider.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Business Modern",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/business-modern/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/business-modern/business-modern.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[]
+	},
+	{
+		"name" 			:	 "Digital Studio",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/digital-studio/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/digital-studio/digital-studio.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/digital-studio/digital-studio-slider.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Home Classic",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/home-classic/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/home-classic/home-classic.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/home-classic/home-classic-slider.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Home Corporate",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/home-corporate/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/home-corporate/home-corporate.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/home-corporate/home-corporate-slider.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Home Creative",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/home-creative/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/home-creative/home-creative.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/home-creative/home-creative-slider.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Home Landing",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/home-landing/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/home-landing/home-landing.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/home-landing/home-landing-slider.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Portfolio Classic",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/portfolio-classic/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/portfolio-classic/portfolio-classic.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/portfolio-classic/portfolio-classic-slider.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Portfolio Modern",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/portfolio-modern/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/portfolio-modern/portfolio-modern.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[]
+	},
+	{
+		"name" 			:	 "shop-classic",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/shop-classic/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/shop-classic/shop-classic.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/shop-classic/shop-classic-slider.zip"
+			}
+		]
+	},
+	{
+		"name" 			:	 "Shop Modern",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/shop-modern/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/shop-modern/shop-modern.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/shop-modern/shop-modern-slider.zip"
+			}
+		]
+	}
+	
+]
