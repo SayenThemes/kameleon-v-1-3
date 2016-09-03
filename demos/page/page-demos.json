@@ -78,6 +78,16 @@
 		"widgetsUrl" 	:	 "",
 		"previewUrl" 	:	 "http://kameleonwp.com/pages-sample/contact-parallax-dark/",
 		"revolutionSliderFiles" :[]
+	},
+	{
+		"name" 			:	 "contact parallax dark",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/contact-parallax-dark/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/page/contact-parallax-dark/contact-parallax-dark.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://kameleonwp.com/pages-sample/contact-parallax-dark/",
+		"revolutionSliderFiles" :[]
 	},	
 	{
 		"name" 			:	 "contact us modern",
