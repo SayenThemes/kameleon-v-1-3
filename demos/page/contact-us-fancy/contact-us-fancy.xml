@@ -39,7 +39,161 @@
 
 
 	<generator>https://wordpress.org/?v=4.6</generator>
-
+	<item>
+		<title>split-1-right</title>
+		<link>http://kameleonwp.com/split-1-right/</link>
+		<pubDate>Wed, 10 Aug 2016 11:32:32 +0000</pubDate>
+		<dc:creator><![CDATA[sayenthemes]]></dc:creator>
+		<guid isPermaLink="false">http://kameleonwp.com/wp-content/uploads/2016/08/split-1-right.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>627</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-10 11:32:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-10 11:32:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[split-1-right]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://kameleonwp.com/wp-content/uploads/2016/08/split-1-right.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/08/split-1-right.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:960;s:6:"height";i:1080;s:4:"file";s:25:"2016/08/split-1-right.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"split-1-right-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"split-1-right-267x300.jpg";s:5:"width";i:267;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:25:"split-1-right-768x864.jpg";s:5:"width";i:768;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"split-1-right-910x1024.jpg";s:5:"width";i:910;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-small-thumbnail";a:4:{s:4:"file";s:25:"split-1-right-400x400.jpg";s:5:"width";i:400;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:31:"kameleon-small-thumbnail-nocrop";a:4:{s:4:"file";s:25:"split-1-right-500x563.jpg";s:5:"width";i:500;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-small-thumbnail";a:4:{s:4:"file";s:25:"split-1-right-200x200.jpg";s:5:"width";i:200;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:19:"kameleon-small-icon";a:4:{s:4:"file";s:25:"split-1-right-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-large-thumbnail";a:4:{s:4:"file";s:25:"split-1-right-960x600.jpg";s:5:"width";i:960;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-large-thumbnail";a:4:{s:4:"file";s:25:"split-1-right-900x500.jpg";s:5:"width";i:900;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>split-1</title>
+		<link>http://kameleonwp.com/split-1/</link>
+		<pubDate>Wed, 10 Aug 2016 11:39:47 +0000</pubDate>
+		<dc:creator><![CDATA[sayenthemes]]></dc:creator>
+		<guid isPermaLink="false">http://kameleonwp.com/wp-content/uploads/2016/08/split-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>630</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-10 11:39:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-10 11:39:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[split-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://kameleonwp.com/wp-content/uploads/2016/08/split-1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/08/split-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:960;s:6:"height";i:1080;s:4:"file";s:19:"2016/08/split-1.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"split-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"split-1-267x300.jpg";s:5:"width";i:267;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"split-1-768x864.jpg";s:5:"width";i:768;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:20:"split-1-910x1024.jpg";s:5:"width";i:910;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-small-thumbnail";a:4:{s:4:"file";s:19:"split-1-400x400.jpg";s:5:"width";i:400;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:31:"kameleon-small-thumbnail-nocrop";a:4:{s:4:"file";s:19:"split-1-500x563.jpg";s:5:"width";i:500;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-small-thumbnail";a:4:{s:4:"file";s:19:"split-1-200x200.jpg";s:5:"width";i:200;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:19:"kameleon-small-icon";a:4:{s:4:"file";s:19:"split-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-large-thumbnail";a:4:{s:4:"file";s:19:"split-1-960x600.jpg";s:5:"width";i:960;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-large-thumbnail";a:4:{s:4:"file";s:19:"split-1-900x500.jpg";s:5:"width";i:900;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>split-3-right</title>
+		<link>http://kameleonwp.com/split-3-right/</link>
+		<pubDate>Wed, 10 Aug 2016 13:53:17 +0000</pubDate>
+		<dc:creator><![CDATA[sayenthemes]]></dc:creator>
+		<guid isPermaLink="false">http://kameleonwp.com/wp-content/uploads/2016/08/split-3-right.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>631</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-10 13:53:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-10 13:53:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[split-3-right]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://kameleonwp.com/wp-content/uploads/2016/08/split-3-right.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/08/split-3-right.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:960;s:6:"height";i:1080;s:4:"file";s:25:"2016/08/split-3-right.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"split-3-right-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"split-3-right-267x300.jpg";s:5:"width";i:267;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:25:"split-3-right-768x864.jpg";s:5:"width";i:768;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"split-3-right-910x1024.jpg";s:5:"width";i:910;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-small-thumbnail";a:4:{s:4:"file";s:25:"split-3-right-400x400.jpg";s:5:"width";i:400;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:31:"kameleon-small-thumbnail-nocrop";a:4:{s:4:"file";s:25:"split-3-right-500x563.jpg";s:5:"width";i:500;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-small-thumbnail";a:4:{s:4:"file";s:25:"split-3-right-200x200.jpg";s:5:"width";i:200;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:19:"kameleon-small-icon";a:4:{s:4:"file";s:25:"split-3-right-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-large-thumbnail";a:4:{s:4:"file";s:25:"split-3-right-960x600.jpg";s:5:"width";i:960;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-large-thumbnail";a:4:{s:4:"file";s:25:"split-3-right-900x500.jpg";s:5:"width";i:900;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>split-3left</title>
+		<link>http://kameleonwp.com/pages-sample/contact-us-fancy/split-3left/</link>
+		<pubDate>Wed, 10 Aug 2016 14:08:34 +0000</pubDate>
+		<dc:creator><![CDATA[sayenthemes]]></dc:creator>
+		<guid isPermaLink="false">http://kameleonwp.com/wp-content/uploads/2016/08/split-3left.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>634</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-10 14:08:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-10 14:08:34]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[split-3left]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>617</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://kameleonwp.com/wp-content/uploads/2016/08/split-3left.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/08/split-3left.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:960;s:6:"height";i:1080;s:4:"file";s:23:"2016/08/split-3left.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"split-3left-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"split-3left-267x300.jpg";s:5:"width";i:267;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:23:"split-3left-768x864.jpg";s:5:"width";i:768;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:24:"split-3left-910x1024.jpg";s:5:"width";i:910;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-small-thumbnail";a:4:{s:4:"file";s:23:"split-3left-400x400.jpg";s:5:"width";i:400;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:31:"kameleon-small-thumbnail-nocrop";a:4:{s:4:"file";s:23:"split-3left-500x563.jpg";s:5:"width";i:500;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-small-thumbnail";a:4:{s:4:"file";s:23:"split-3left-200x200.jpg";s:5:"width";i:200;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:19:"kameleon-small-icon";a:4:{s:4:"file";s:23:"split-3left-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-large-thumbnail";a:4:{s:4:"file";s:23:"split-3left-960x600.jpg";s:5:"width";i:960;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-large-thumbnail";a:4:{s:4:"file";s:23:"split-3left-900x500.jpg";s:5:"width";i:900;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>split2right</title>
+		<link>http://kameleonwp.com/split2right/</link>
+		<pubDate>Wed, 10 Aug 2016 15:02:48 +0000</pubDate>
+		<dc:creator><![CDATA[sayenthemes]]></dc:creator>
+		<guid isPermaLink="false">http://kameleonwp.com/wp-content/uploads/2016/08/split2right.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>635</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-10 15:02:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-10 15:02:48]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[split2right]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://kameleonwp.com/wp-content/uploads/2016/08/split2right.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/08/split2right.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:960;s:6:"height";i:1080;s:4:"file";s:23:"2016/08/split2right.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"split2right-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"split2right-267x300.jpg";s:5:"width";i:267;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:23:"split2right-768x864.jpg";s:5:"width";i:768;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:24:"split2right-910x1024.jpg";s:5:"width";i:910;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-small-thumbnail";a:4:{s:4:"file";s:23:"split2right-400x400.jpg";s:5:"width";i:400;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:31:"kameleon-small-thumbnail-nocrop";a:4:{s:4:"file";s:23:"split2right-500x563.jpg";s:5:"width";i:500;s:6:"height";i:563;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-small-thumbnail";a:4:{s:4:"file";s:23:"split2right-200x200.jpg";s:5:"width";i:200;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:19:"kameleon-small-icon";a:4:{s:4:"file";s:23:"split2right-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-large-thumbnail";a:4:{s:4:"file";s:23:"split2right-960x600.jpg";s:5:"width";i:960;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-large-thumbnail";a:4:{s:4:"file";s:23:"split2right-900x500.jpg";s:5:"width";i:900;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
 	<item>
 		<title>Contact Us Fancy</title>
 		<link>http://kameleonwp.com/?page_id=617</link>

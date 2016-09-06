@@ -39,7 +39,99 @@
 
 
 	<generator>https://wordpress.org/?v=4.6</generator>
-
+	<item>
+		<title>people-street</title>
+		<link>http://kameleonwp.com/people-street/</link>
+		<pubDate>Thu, 18 Aug 2016 19:56:47 +0000</pubDate>
+		<dc:creator><![CDATA[sayenthemes]]></dc:creator>
+		<guid isPermaLink="false">http://kameleonwp.com/wp-content/uploads/2016/08/people-street.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>750</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-18 19:56:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-18 19:56:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[people-street]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://kameleonwp.com/wp-content/uploads/2016/08/people-street.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/08/people-street.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1276;s:4:"file";s:25:"2016/08/people-street.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"people-street-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"people-street-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:25:"people-street-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"people-street-1024x681.jpg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-small-thumbnail";a:4:{s:4:"file";s:25:"people-street-400x400.jpg";s:5:"width";i:400;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:31:"kameleon-small-thumbnail-nocrop";a:4:{s:4:"file";s:25:"people-street-500x332.jpg";s:5:"width";i:500;s:6:"height";i:332;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-small-thumbnail";a:4:{s:4:"file";s:25:"people-street-200x200.jpg";s:5:"width";i:200;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:19:"kameleon-small-icon";a:4:{s:4:"file";s:25:"people-street-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-large-thumbnail";a:4:{s:4:"file";s:26:"people-street-1200x600.jpg";s:5:"width";i:1200;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-large-thumbnail";a:4:{s:4:"file";s:25:"people-street-900x500.jpg";s:5:"width";i:900;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ipad-clock</title>
+		<link>http://kameleonwp.com/homes/home-landing/ipad-clock/</link>
+		<pubDate>Mon, 29 Aug 2016 22:39:24 +0000</pubDate>
+		<dc:creator><![CDATA[sayenthemes]]></dc:creator>
+		<guid isPermaLink="false">http://kameleonwp.com/wp-content/uploads/2016/08/ipad-clock.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>999</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-29 22:39:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-29 22:39:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[ipad-clock]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>761</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://kameleonwp.com/wp-content/uploads/2016/08/ipad-clock.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/08/ipad-clock.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:22:"2016/08/ipad-clock.jpg";s:5:"sizes";a:12:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"ipad-clock-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"ipad-clock-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"ipad-clock-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-small-thumbnail";a:4:{s:4:"file";s:22:"ipad-clock-400x400.jpg";s:5:"width";i:400;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:31:"kameleon-small-thumbnail-nocrop";a:4:{s:4:"file";s:22:"ipad-clock-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-small-thumbnail";a:4:{s:4:"file";s:22:"ipad-clock-200x200.jpg";s:5:"width";i:200;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:19:"kameleon-small-icon";a:4:{s:4:"file";s:22:"ipad-clock-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-large-thumbnail";a:4:{s:4:"file";s:23:"ipad-clock-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-large-thumbnail";a:4:{s:4:"file";s:22:"ipad-clock-900x500.jpg";s:5:"width";i:900;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:22:"ipad-clock-180x180.jpg";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:22:"ipad-clock-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:22:"ipad-clock-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>manfaceside</title>
+		<link>http://kameleonwp.com/homes/home-landing/manfaceside/</link>
+		<pubDate>Fri, 19 Aug 2016 22:14:35 +0000</pubDate>
+		<dc:creator><![CDATA[sayenthemes]]></dc:creator>
+		<guid isPermaLink="false">http://kameleonwp.com/wp-content/uploads/2016/08/manfaceside.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>763</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-19 22:14:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-19 22:14:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[manfaceside]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>761</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://kameleonwp.com/wp-content/uploads/2016/08/manfaceside.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/08/manfaceside.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:960;s:6:"height";i:960;s:4:"file";s:23:"2016/08/manfaceside.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"manfaceside-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"manfaceside-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:23:"manfaceside-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-small-thumbnail";a:4:{s:4:"file";s:23:"manfaceside-400x400.jpg";s:5:"width";i:400;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:31:"kameleon-small-thumbnail-nocrop";a:4:{s:4:"file";s:23:"manfaceside-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-small-thumbnail";a:4:{s:4:"file";s:23:"manfaceside-200x200.jpg";s:5:"width";i:200;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:19:"kameleon-small-icon";a:4:{s:4:"file";s:23:"manfaceside-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"kameleon-x-large-thumbnail";a:4:{s:4:"file";s:23:"manfaceside-960x600.jpg";s:5:"width";i:960;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:24:"kameleon-large-thumbnail";a:4:{s:4:"file";s:23:"manfaceside-900x500.jpg";s:5:"width";i:900;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
 	<item>
 		<title>Home Landing</title>
 		<link>http://kameleonwp.com/?page_id=761</link>
