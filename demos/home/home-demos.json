@@ -14,6 +14,16 @@
 		]
 	},
 	{
+		"name" 			:	 "Corporate Agency",
+		"version" 		:	 "1.3",
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/corporate-agency/thumbnail.jpg",
+		"optionsUrl" 	:	 "",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/corporate-agency/corporate-agency.xml",
+		"widgetsUrl" 	:	 "",
+		"previewUrl" 	:	 "http://kameleonwp.com/homes/corporate-agency/",
+		"revolutionSliderFiles" :[]
+	},
+	{
 		"name" 			:	 "Home Landing",
 		"version" 		:	 "1.3",
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-v-1-3/master/demos/home/home-landing/thumbnail.jpg",
